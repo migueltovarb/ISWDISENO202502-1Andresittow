@@ -1,0 +1,4 @@
+com\example\vehiculos\controller\VehiculoController.class
+com\example\vehiculos\model\Vehiculo.class
+com\example\vehiculos\VehiculosApplication.class
+com\example\vehiculos\repository\VehiculoRepository.class
